@@ -143,7 +143,7 @@ document.addEventListener('DOMContentLoaded', function () {
       case 'Herbal & Aromatic':
         return '#228b22'; // Herbal & Aromatic
       case 'Creamy & Indulgent':
-        return '#f5deb3'; // Creamy & Indulgent
+        return '#d5e807'; // Creamy & Indulgent
       case 'Smoky & Earthy':
         return '#8b4513'; // Smoky & Earthy
       case 'Citrusy & Refreshing':
@@ -154,6 +154,7 @@ document.addEventListener('DOMContentLoaded', function () {
         return '#000'; // Default to black if unknown
     }
   }
+
 
   // Attach event listeners to filters
   document.getElementById('flavor-profile-filter').addEventListener('change', filterDrinks);
