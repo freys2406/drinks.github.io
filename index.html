@@ -6,11 +6,79 @@
   <title>Cocktail Finder</title>
   <link rel="stylesheet" href="styles1.css">
   <link rel="stylesheet" href="https://use.typekit.net/vun8ccw.css">
-  <link rel="stylesheet" href="https://use.typekit.net/vun8ccw.css">
-  <link rel="stylesheet" href="https://use.typekit.net/vun8ccw.css">
-
 
   <style>
+    /* Body Styles */
+    html, body {
+      font-family: "itc-avant-garde-gothic-pro", sans-serif;
+      font-weight: 300;
+      font-style: normal;
+      padding: 20px;
+      color: #FBF6CA; /* Dark text */
+      margin: 0;
+      min-height: 100%; /* Ensures the body takes up the full height of the viewport */
+      background: linear-gradient(120deg, #FF5722, #9A1B22, #FFAB91);
+      background-size: 400% 400%; /* To create the animation effect */
+      animation: gradientAnimation 10s ease infinite; /* Smooth infinite animation */
+    }
+
+    /* Keyframes for gradient animation */
+    @keyframes gradientAnimation {
+      0% {
+        background-position: 0% 50%;
+      }
+      50% {
+        background-position: 100% 50%;
+      }
+      100% {
+        background-position: 0% 50%;
+      }
+    }
+
+    /* Main Title Box */
+    .main-title-container {
+      background-image: url('cocktail_doodles.svg'); /* Background pattern */
+      background-size: 50%; /* Scale down the pattern */
+      background-position: center; /* Center the background image */
+      position: relative; /* Needed for positioning the overlay */
+      padding: 40px; /* Add more padding for better title spacing */
+      border-radius: 8px; /* Rounded corners for the container */
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+      margin-bottom: 20px; /* Space between this box and the next section */
+      display: flex; /* Flexbox to arrange title and image side by side */
+      align-items: center; /* Vertically center the content */
+      justify-content: center; /* Center title horizontally */
+      text-align: center; /* Ensure text is centered */
+      height: 50px; /* Set a fixed height to ensure uniformity */
+    }
+
+    /* Brown overlay */
+    .main-title-container::before {
+      content: ""; /* Creates a pseudo-element */
+      position: absolute; /* Absolute positioning within the container */
+      border-radius: 8px;
+      top: 0; /* Align to the top */
+      left: 0; /* Align to the left */
+      width: 100%; /* Cover the full width */
+      height: 100%; /* Cover the full height */
+      background-color: rgba(52, 10, 14, 0.9);  /* More prominent brown with higher opacity */
+      z-index: 1; /* Place it above the background image but below the text */
+    }
+
+    /* Main Title */
+    .main-title {
+      font-family: "temeraire", serif;
+      font-weight: 900;
+      font-style: normal;
+      color: #FBF6CA; /* Light text color */
+      margin-top: 0; /* Adjusted space from the top */
+      margin-bottom: 0; /* Removed space below the title */
+      font-size: 2.5rem; /* Larger font size for better readability */
+      position: relative; /* Ensure the title stays on top of everything */
+      z-index: 2; /* Ensure the title is above the overlay */
+    }
+  
+        /* Filter Section */
     .filter-container {
       display: flex;
       justify-content: space-between;
@@ -25,7 +93,7 @@
       width: 22%; /* Adjust to ensure four columns fit */
       min-width: 200px;
     }
-    
+
     .filter-section select {
       width: 100%;
       padding: 5px;
@@ -34,10 +102,10 @@
       border: 1px solid #ccc;
       border-radius: 4px;
     }
-    
-    .legends-container {     
-      letter-spacing: 0.05em;  /* Adjust tracking */
-      line-height: 1.25;       /* Adjust leading */
+
+    .legends-container {
+      letter-spacing: 0.05em; /* Adjust tracking */
+      line-height: 1.25; /* Adjust leading */
       font-size: small;
       display: flex;
       flex-direction: column;
@@ -45,41 +113,41 @@
       width: 100%;
     }
 
-    
     .legend-item {
       display: flex;
       align-items: center;
       gap: 5px;
     }
-    
+
     .legend-dot {
       width: 10px;
       height: 10px;
       border-radius: 50%;
     }
 
-    .main-title {
-      color: #340A0E;
-    }
-    
+    /* Responsive Design */
     @media (max-width: 768px) {
       .filter-container {
         flex-direction: column;
       }
-      
+
       .filter-section {
         width: 100%;
       }
     }
+
   </style>
 </head>
 <body>
+  <!-- Main Title Section -->
   <div class="main-title-container">
-    <h1 class="main-title">King Street Cocktail Explorer</h1>
+    <h1 class="main-title">King Street West Cocktail Explorer</h1>
   </div>
-<div>
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil rem id earum laborum at aut corporis repellendus qui quaerat accusamus explicabo assumenda inventore deleniti iusto minus dolor numquam, fugit quis?</p>
-</div>
+
+  <div>
+    <p>Discover your perfect cocktail—tailored to your taste—from a curated selection across 10 iconic bars on King Street West, Toronto. The lengend below shows the flavor profiles of each drink, and how complex each drink is based on the count of these ingredients.</p>
+  </div>
+
   <!-- Filter Section -->
   <div class="filter-container">
     <!-- Flavor Profile Filter -->
@@ -113,7 +181,7 @@
           <span>Herbal & Aromatic</span>
         </div>
         <div class="legend-item">
-          <div class="legend-dot" style="background-color: #f5deb3;"></div>
+          <div class="legend-dot" style="background-color: #d5e807;"></div>
           <span>Creamy & Indulgent</span>
         </div>
         <div class="legend-item">
@@ -142,15 +210,15 @@
       <div class="legends-container">
         <div class="legend-item">
           <div class="legend-dot" style="background-color: #FFAB91;"></div>
-          <span>Mixer</span>
+          <span>Mixer: Non-alcoholic Ingredient</span>
         </div>
         <div class="legend-item">
           <div class="legend-dot" style="background-color: #9A1B22;"></div>
-          <span>Modifiers</span>
+          <span>Modifier: Alcoholic Liqeurs</span>
         </div>
         <div class="legend-item">
           <div class="legend-dot" style="background-color: #FF5722;"></div>
-          <span>Base Spirits</span>
+          <span>Base Spirits: Key Alchohol</span>
         </div>
       </div>
     </div>
@@ -183,29 +251,14 @@
         <option value="Shochu">Shochu</option>
         <option value="Soju">Soju</option>
         <option value="Pisco">Pisco</option>
-        <option value="Red Whine">Red Wine</option>
-        <option value="White Wine ">White Wine</option>
+        <option value="Red Wine">Red Wine</option>
+        <option value="White Wine">White Wine</option>
       </select>
     </div>
   </div>
-  
+
   <!-- Drinks Section -->
-  <div id="drinks-container" class="drinks-container">
-    <!-- Example Drink Card -->
-    <div class="drink-card">
-      <h3>
-        <span class="cocktail-name">Example Drink</span>
-        <span class="cocktail-tag">$$$</span>
-      </h3>
-      <p>Rich & Spiced | Whiskey | Complexity: 7 | Price: CAD 15</p>
-      <div class="layers-container">
-        <div class="layer red"></div>
-        <div class="layer green"></div>
-        <div class="layer blue"></div>
-      </div>
-      <div class="layer-hover">Hover for more information about this amazing drink.</div>
-    </div>
-  </div>
+  <div id="drinks-container" class="drinks-container"></div>
 
   <script src="scripts1.js"></script>
 </body>
