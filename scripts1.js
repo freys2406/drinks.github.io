@@ -113,9 +113,9 @@ document.addEventListener('DOMContentLoaded', function () {
         ? drink['Ingredients'].join(', ') 
         : 'Ingredients not available';
 
-      layerHover.innerHTML = `
-        <p><strong>Ingredients:</strong> ${ingredients}</p>
-      `;
+        layerHover.innerHTML = 
+        `<p><strong>Ingredients:</strong> ${ingredients}</p>`;
+    
       drinkCard.appendChild(layerHover);
 
       drinksContainer.appendChild(drinkCard);
@@ -154,7 +154,6 @@ document.addEventListener('DOMContentLoaded', function () {
         return '#000'; // Default to black if unknown
     }
   }
-
 
   // Attach event listeners to filters
   document.getElementById('flavor-profile-filter').addEventListener('change', filterDrinks);
