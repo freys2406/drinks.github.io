@@ -1,0 +1,246 @@
+/* Body Styles */
+html, body {
+  font-family: "itc-avant-garde-gothic-pro", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  padding: 20px;
+  background-color: #FBF6CA; /* Light background */
+  color: #340A0E; /* Dark text */ 
+  margin: 0;
+  height: 100%;
+}
+
+p {
+  letter-spacing: 0.05em;  /* Adjust tracking */
+  line-height: 1.25;       /* Adjust leading */
+}
+
+h1 {
+  font-family: "temeraire", serif;
+font-weight: 900;
+font-style: normal;
+margin-top: -20px;
+
+}
+h2, h3 {
+  font-family: "loretta-variable", sans-serif;
+font-variation-settings: "wght" 500;;
+}
+
+/* Add to your existing CSS */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.drink-card {
+  animation: fadeIn 0.8s ease-in-out;
+}
+
+
+.title, .filters, .content {
+  background: rgba(255, 255, 255, 0.8); /* Optional overlay */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Optional shadow for better readability */
+  border-radius: 8px; /* Optional for rounded corners */
+}
+/* Title in a Box */
+.page-title {
+  font-family: "degular-variable", sans-serif;
+  font-variation-settings: "wght" 700, "opsz" 6, "ital" 0;
+  color: #340A0E; /* Dark text for contrast */
+  background-color: #FBF6CA; /* Orange background */
+  padding: 15px; /* Reduced padding */
+  text-align: center;
+  border-radius: 3px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  margin-bottom: 15px; /* Reduced margin */
+  transition: all 0.3s ease; /* Smooth hover effect */
+}
+
+/* Filter Section Styles */
+.filter-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 15px; /* Reduced gap */
+  margin-bottom: 15px; /* Reduced margin */
+}
+
+.filter-section {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.filter-section select {
+  width: 100%;
+  padding: 4px; /* Reduced padding */
+  font-size: 14px; /* Smaller font */
+  background-color: #FBF6CA;
+  color: #340A0E;
+  border: 2px solid #273248;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.filter-section select:hover {
+  background-color: #FFAB91;
+  color: #340A0E;
+}
+
+/* Drink Cards */
+.drinks-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); /* Adjusted card size */
+  gap: 20px;
+}
+
+.drink-card {
+  background-color: #340A0E; /* Dark background for cards */
+  color: #FBF6CA; /* Light text */
+  padding: 15px; /* Reduced padding */
+  border-radius: 8px;
+  position: relative;
+  overflow: hidden;
+  height: auto;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column; /* Flex column to stack content */
+  justify-content: space-between; /* Distribute space properly */
+}
+
+/* Cocktail Name and Dollar Tag on Same Line */
+.drink-header {
+  display: flex;
+  justify-content: space-between; /* Spread out the content */
+  align-items: center;
+  margin-bottom: 8px; /* Reduced margin */
+}
+
+.drink-card h3 {
+  font-size: 16px; /* Smaller font size */
+  font-weight: 500;
+  margin: 0; /* Remove extra margin */
+}
+
+.dollar-tag {
+  font-size: 14px; /* Adjust text size for the dollar tag */
+  color: #FBF6CA; /* Orange color for the dollar tag */
+}
+
+/* Bar Name, Price, and Flavor Profile Circle in the Same Row */
+.bar-price-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px; /* Reduced margin */
+}
+
+.bar-name {
+  font-family: "loretta-variable", sans-serif;
+  font-variation-settings: "wght" 400;;
+  font-size: 13px; /* Smaller font size */
+  color: #FBF6CA; /* Orange color for the bar name */
+  font-weight: 400;
+  text-align: left;
+  margin-right: 10px; /* Reduced space between bar and price */
+
+}
+
+.price {
+  font-family: "loretta-variable", sans-serif;
+  font-size: 13px; /* Smaller font size */
+  color: #FBF6CA; /* Same color as bar name */
+  font-weight: 400;
+  text-align: right;
+}
+
+/* Flavor Profile Circle */
+.flavor-profile-circle {
+  width: 20px; /* Slightly bigger for clarity */
+  height: 20px; /* Slightly bigger for clarity */
+  border-radius: 50%;
+  margin-top: 0; /* Align with other items */
+  margin-left: 10px; /* Space between the price and flavor profile */
+  display: inline-block;
+}
+
+/* Layer Styles */
+.layers-container {
+  display: flex;
+  flex-direction: column; /* Stacked bars */
+  gap: 1px; /* Reduced gap */
+  margin-top: 5px; /* Reduced margin */
+}
+
+.layer {
+  width: 100%;
+  height: 15px; /* Reduced height */
+  transition: all 0.3s ease;
+}
+
+.layers-container .layer:first-child {
+  border-top-left-radius: 5px;  /* Round top-left corner of the first layer */
+  border-top-right-radius: 5px; /* Round top-right corner of the first layer */
+}
+
+.layers-container .layer:last-child {
+  border-bottom-left-radius: 5px;  /* Round bottom-left corner of the last layer */
+  border-bottom-right-radius: 5px; /* Round bottom-right corner of the last layer */
+}
+
+.layer.red {
+  background-color: #FF5722; /* Orange */
+}
+
+.layer.green {
+  background-color: #9A1B22; /* Deep Red */
+}
+
+.layer.blue {
+  background-color: #FFAB91; /* Warm White */
+}
+
+/* Hover Effect for Drink Details */
+.layer-hover {
+  display: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(85, 41, 63, 0.9); /* Semi-transparent dark blue */
+  color: #FFEBD2; /* Light text */
+  padding: 10px; /* Reduced padding */
+  border-radius: 8px;
+  width: 200px; /* Adjusted width */
+
+  max-height: 200px; /* Adjusted max-height */
+  text-align: center;
+  font-size: 11px;
+  overflow-y: auto;
+  z-index: 999;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.drink-card:hover .layer-hover {
+  display: block;
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+  .filter-container {
+    flex-direction: column;
+    gap: 10px; /* Reduced gap */
+  }
+  
+  .filter-section {
+    width: 100%;
+  }
+}

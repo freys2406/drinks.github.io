@@ -1,0 +1,3787 @@
+[
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "Toasted Old Fashioned",
+    "Base Spirit": "Whiskey",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 23",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Canadian Whiskey",
+      "Toasted Chamomile Bitters",
+      "Saffron Bitters",
+      "Muddled Orange Zest",
+      "Maple"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Bitter & Complex",
+    "Cocktail": "Old World",
+    "Base Spirit": "Brandy",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 25",
+    "Base Count": 1,
+    "Modifier Count": 4,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Vanilla Infused Brandy",
+      "Cacao Bitters",
+      "Caraway-Infused Maraschino",
+      "Madeira",
+      "Islay Scotch"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Strawberries & Lavender",
+    "Base Spirit": "Gin",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 23",
+    "Base Count": 1,
+    "Modifier Count": 3,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Strawberry Infused Gin",
+      "Lavender Infused Grand Marnier",
+      "Elderberry Bitters",
+      "Strawberry Bitters",
+      "Fresh lemon"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Herbal & Aromatic",
+    "Cocktail": "Coconut & Absinthe Sour",
+    "Base Spirit": "Absinthe",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 24",
+    "Base Count": 1,
+    "Modifier Count": 4,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Absinthe",
+      "Coconut Rum",
+      "Vanilla",
+      "Pineapple",
+      "Edible flower petals",
+      "grapefruit zest",
+      "Fresh lemon"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Symphony No. 5",
+    "Base Spirit": "Gin, Brandy",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 21",
+    "Base Count": 2,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Gin",
+      "Vanilla Infused brandy",
+      "Spiced liqueur",
+      "dill Bitters",
+      "Rosemary Syrup"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Apricot Sazerac",
+    "Base Spirit": "Brandy",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 23",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Apricot Infused brandy",
+      "Cherry and Vanilla Bitters",
+      "absinthe",
+      "Sugar"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Bitter & Complex",
+    "Cocktail": "Dark Necessities",
+    "Base Spirit": "Whiskey",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 21",
+    "Base Count": 1,
+    "Modifier Count": 4,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Bourbon",
+      "Violette liqueur",
+      "caraway-Infused Maraschino",
+      "Cacao Bitters",
+      "Sweet Vermouth"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Strong & Spirit-Forward",
+    "Cocktail": "King of Kensington",
+    "Base Spirit": "Whiskey",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 24",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Bourbon",
+      "Grand Marnier",
+      "orange Bitters",
+      "Black tea"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Ocho Rios",
+    "Base Spirit": "Rum",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 22",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Coconut Infused Rum",
+      "Bitter bianco",
+      "Strawberry and Pineapple cordial",
+      "cava"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Creamy & Indulgent",
+    "Cocktail": "Pumpkin Spice & Cedar",
+    "Base Spirit": "Vodka",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 24",
+    "Base Count": 1,
+    "Modifier Count": 3,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Brown butter vodka",
+      "Chai Bitters",
+      "pear liqueur",
+      "Pumpkin spice cordial",
+      "Clarified lemon",
+      "cedar Soda"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "Charred Japanese Highball",
+    "Base Spirit": "Whiskey",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 23",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Japanese whisky",
+      "Toasted chamomile Bitters",
+      "saffron Bitters",
+      "Soda"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Bitter & Complex",
+    "Cocktail": "Italian Breeze",
+    "Base Spirit": "",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 21",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Amaro Lucano",
+      "Strawberry & elderberry Bitters",
+      "Tonic"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Herbal & Aromatic",
+    "Cocktail": "The Coa",
+    "Base Spirit": "Tequila",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 23",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Palo santo Infused Tequila",
+      "St-Germain",
+      "Cava"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Bitter & Complex",
+    "Cocktail": "Fig Americano",
+    "Base Spirit": "",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 28",
+    "Base Count": 1,
+    "Modifier Count": 3,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Campari",
+      "Fig Infused sweet Vermouth",
+      "balsam fir Bitters",
+      "Cacao Infused Maraschino",
+      "Soda"
+    ],
+    "Tag": "$$$$"
+  },
+  {
+    "Flavor Profile": "Bitter & Complex",
+    "Cocktail": "Essence of Fall",
+    "Base Spirit": "Brandy",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 7,
+    "Complexity": "Complex",
+    "Price": "CAD 36",
+    "Base Count": 1,
+    "Modifier Count": 5,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Brandy",
+      "Sweet Vermouth",
+      "Fernet branca",
+      "balsam fir Bitters",
+      "rosemary",
+      "Vanilla",
+      "Mint",
+      "Spherified ice of maple & fernet"
+    ],
+    "Tag": "$$$$"
+  },
+  {
+    "Flavor Profile": "Smoky & Earthy",
+    "Cocktail": "Golden Honey Penicillin",
+    "Base Spirit": "Whiskey",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 39",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Beeswax Infused Scotch",
+      "Islay",
+      "Ginger & lemongrass Syrup",
+      "Toasted Chamomile & Saffron Bitters",
+      "Fresh lemon",
+      "White chocolate ganache"
+    ],
+    "Tag": "$$$$"
+  },
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "Vanilla & Hickory Smoked Manhattan",
+    "Base Spirit": "Whiskey, Brandy",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 60",
+    "Base Count": 2,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Crown Royal Special Reserve",
+      "Vanilla Infused brandy",
+      "Cherry and Vanilla Bitters",
+      "smoked hickory"
+    ],
+    "Tag": "$$$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Sailor's Mojito",
+    "Base Spirit": "Rum",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 36",
+    "Base Count": 1,
+    "Modifier Count": 3,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Spiced Rum",
+      "Lime & Vanilla air",
+      "cryo poached mojito pearls",
+      "Toasted Coconut gel",
+      "Fresh lime",
+      "muddled Mint"
+    ],
+    "Tag": "$$$$"
+  },
+  {
+    "Flavor Profile": "Creamy & Indulgent",
+    "Cocktail": "Pina Colada",
+    "Base Spirit": "Rum",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 38",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Clarified pina colada",
+      "Pineapple & cedar sherbet",
+      "lime cells & zest"
+    ],
+    "Tag": "$$$$"
+  },
+  {
+    "Flavor Profile": "Smoky & Earthy",
+    "Cocktail": "Saike! Vieux Carre",
+    "Base Spirit": "Whiskey",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 10,
+    "Complexity": "Complex",
+    "Price": "CAD 34",
+    "Base Count": 1,
+    "Modifier Count": 5,
+    "Mixer Count": 4,
+    "Ingredients": [
+      "Japanese whisky",
+      "Cedar rye",
+      "Backwoods bourbon",
+      "Coffee Vermouth",
+      "lapsang",
+      "absinthe",
+      "sake",
+      "concord grape",
+      "Cucumber",
+      "lychee",
+      "marigold",
+      "shiso"
+    ],
+    "Tag": "$$$$"
+  },
+  {
+    "Flavor Profile": "Bitter & Complex",
+    "Cocktail": "Rose Gold Margarita",
+    "Base Spirit": "Tequila",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 42",
+    "Base Count": 1,
+    "Modifier Count": 3,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Pequin pepper Infused Tequila",
+      "Roasted agave",
+      "lime leaf Infused Lillet",
+      "hibiscus Infused Campari",
+      "Fresh lime",
+      "Coconut"
+    ],
+    "Tag": "$$$$"
+  },
+  {
+    "Flavor Profile": "Herbal & Aromatic",
+    "Cocktail": "Frida Kahlo",
+    "Base Spirit": "Tequila",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 7,
+    "Complexity": "Complex",
+    "Price": "CAD 24",
+    "Base Count": 1,
+    "Modifier Count": 5,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Coconut Tequila",
+      "Ginger liqueur",
+      "balsam fir Bitters",
+      "oregano",
+      "gentian Infused St-Germain",
+      "Lime leaf Infused Lillet"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Smoky & Earthy",
+    "Cocktail": "Palo Santo",
+    "Base Spirit": "Whiskey",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 25",
+    "Base Count": 1,
+    "Modifier Count": 4,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Cedar Infused rye",
+      "Balsam fir Bitters",
+      "caraway Infused Maraschino",
+      "Madeira",
+      "rosemary"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Herbal & Aromatic",
+    "Cocktail": "Isla Paradiso",
+    "Base Spirit": "Rum",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 7,
+    "Complexity": "Complex",
+    "Price": "CAD 25",
+    "Base Count": 1,
+    "Modifier Count": 4,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "White Rum",
+      "Coconut",
+      "gunpowder and lime leaf cordial",
+      "Coconut and green cardamom Bitters",
+      "Pineapple liqueur",
+      "Gentian",
+      "lemongrass"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Smoky & Earthy",
+    "Cocktail": "Diplomatic Immunity",
+    "Base Spirit": "Tequila",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 7,
+    "Complexity": "Complex",
+    "Price": "CAD 23",
+    "Base Count": 1,
+    "Modifier Count": 5,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Reposado Tequila",
+      "mezcal",
+      "Toasted chamomile and saffron Bitters",
+      "saffron Infused brandy",
+      "caraway Infused Maraschino",
+      "port",
+      "Amaro Montenegro",
+      "Star anise"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Bitter & Complex",
+    "Cocktail": "The Expatriate",
+    "Base Spirit": "Whiskey",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 22",
+    "Base Count": 1,
+    "Modifier Count": 3,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Bourbon",
+      "Raspberry leaf cordial",
+      "dry Vermouth",
+      "bitter bianco",
+      "Tonka bean",
+      "pandan"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "Luna Nera",
+    "Base Spirit": "Whiskey",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 8,
+    "Complexity": "Complex",
+    "Price": "CAD 23",
+    "Base Count": 1,
+    "Modifier Count": 4,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Backwoods Infused bourbon",
+      "Amaro Averna",
+      "cedar Bitters",
+      "rosemary",
+      "lime leaf Infused Lillet",
+      "Cedar caramel",
+      "pecan",
+      "sage leaf"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Smoky & Earthy",
+    "Cocktail": "Cafe de Olla",
+    "Base Spirit": "Mezcal",
+    "Bar": "BarChef Toronto",
+    "Number of Ingredients": 8,
+    "Complexity": "Complex",
+    "Price": "CAD 25",
+    "Base Count": 1,
+    "Modifier Count": 5,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Mezcal",
+      "Espresso",
+      "Grand Marnier",
+      "cedar Bitters",
+      "coffee liqueur",
+      "shiitake cordial",
+      "Vanilla",
+      "tonka bean"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Stone Fruit Sour",
+    "Base Spirit": "Vodka",
+    "Bar": "Lavelle",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 15",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Ciroc vodka",
+      "Triple sec",
+      "Fresh cranberry",
+      "fresh lime juice",
+      "egg White"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Guava Lemonade Refresher",
+    "Base Spirit": "Gin",
+    "Bar": "Lavelle",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 14",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Tanqueray Gin",
+      "Fresh guava juice",
+      "fresh lemon juice",
+      "cucumber"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Passion Fruit Mimosa",
+    "Base Spirit": "White Wine",
+    "Bar": "Lavelle",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 15",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "prosecco",
+      "Fresh lime juice",
+      "passionfruit"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Mexico Mule",
+    "Base Spirit": "Tequila",
+    "Bar": "Lavelle",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 16",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 4,
+    "Ingredients": [
+      "El Jimador Tequila",
+      "Ginger beer",
+      "fresh lime",
+      "muddled cucumber",
+      "orange"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Creamy & Indulgent",
+    "Cocktail": "Lickity Split Espresso Martini",
+    "Base Spirit": "Vodka",
+    "Bar": "Lavelle",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 15",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Ciroc vodka",
+      "Bailey's Irish Creme",
+      "banana liqueur",
+      "Espresso",
+      "whip cream"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Herbal & Aromatic",
+    "Cocktail": "Kiwi Thai Basil Mojito",
+    "Base Spirit": "Rum",
+    "Bar": "Lavelle",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 15",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Captain Morgan White Rum",
+      "Fresh lime",
+      "muddled kiwi",
+      "Thai basil leaves"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Don Julio Blue Island Margarita",
+    "Base Spirit": "Tequila",
+    "Bar": "Lavelle",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 16",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Don Julio Blanco Tequila",
+      "Triple sec",
+      "blue curacao",
+      "Fresh lime",
+      "tajin rim"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Pink in the City",
+    "Base Spirit": "Vodka",
+    "Bar": "Louix Louis",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 27",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Titos Vodka",
+      "Cointreau",
+      "Rose Tea Infused Titos Vodka",
+      "Lime",
+      "Peach"
+    ],
+    "Tag": "$$$$"
+  },
+  {
+    "Flavor Profile": "Herbal & Aromatic",
+    "Cocktail": "Negroni Blanc",
+    "Base Spirit": "Gin, Mezcal",
+    "Bar": "Louix Louis",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 26",
+    "Base Count": 2,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "The Botanist Gin",
+      "Mezcal",
+      "Lillet Blanc",
+      "Peach"
+    ],
+    "Tag": "$$$$"
+  },
+  {
+    "Flavor Profile": "Herbal & Aromatic",
+    "Cocktail": "Tasse de Magie",
+    "Base Spirit": "Gin",
+    "Bar": "Louix Louis",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 32",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 4,
+    "Ingredients": [
+      "Earl Grey Tea Infused Gin",
+      "St. Germain",
+      "Lemon",
+      "",
+      "Spiced Apple Juice",
+      "Orange Marmalade"
+    ],
+    "Tag": "$$$$"
+  },
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "Autumn Orchard",
+    "Base Spirit": "Whiskey",
+    "Bar": "Louix Louis",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 35",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Spiced Infused The Macallan Double Cask",
+      "Calvados",
+      "Homemade Apricot Sugar Dust",
+      "Apple Syrup"
+    ],
+    "Tag": "$$$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Gin Mora",
+    "Base Spirit": "Gin",
+    "Bar": "Louix Louis",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 25",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Empress Gin",
+      "Zonin Prosecco",
+      "Cointreau",
+      "Grapefruit",
+      "Hibiscus",
+      "Lime"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "Excellence and Legacy",
+    "Base Spirit": "Whiskey",
+    "Bar": "Louix Louis",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 36",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "The Macallan 12 Sherry Oak",
+      "Apricot Brandy",
+      "Demerara",
+      "Cardamom & Black Tea Syrup",
+      "Ginger"
+    ],
+    "Tag": "$$$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Louix Louis Mule",
+    "Base Spirit": "Cachaca",
+    "Bar": "Louix Louis",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 25",
+    "Base Count": 1,
+    "Modifier Count": 3,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Spiced Cachaca",
+      "Raspberry",
+      "Ginger Beer",
+      "Lime"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Satine",
+    "Base Spirit": "Champagne, Gin",
+    "Bar": "Louix Louis",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 32",
+    "Base Count": 2,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Perrier-Jouet Champagne",
+      "Gin",
+      "Fig"
+    ],
+    "Tag": "$$$$"
+  },
+  {
+    "Flavor Profile": "Bitter & Complex",
+    "Cocktail": "Whispers of Mexico",
+    "Base Spirit": "Tequila",
+    "Bar": "Louix Louis",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 27",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Teremana Tequila Blanco",
+      "Aperol",
+      "Drambuie",
+      "Lemon",
+      "Agave"
+    ],
+    "Tag": "$$$$"
+  },
+  {
+    "Flavor Profile": "Bitter & Complex",
+    "Cocktail": "Concorde",
+    "Base Spirit": "Cognac",
+    "Bar": "Louix Louis",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 26",
+    "Base Count": 1,
+    "Modifier Count": 3,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Cognac",
+      "Amaro",
+      "Aperol",
+      "Yellow Chartreuse",
+      "Lemon"
+    ],
+    "Tag": "$$$$"
+  },
+  {
+    "Flavor Profile": "Strong & Spirit-Forward",
+    "Cocktail": "The Original Bloody Mary",
+    "Base Spirit": "Vodka",
+    "Bar": "Louix Louis",
+    "Number of Ingredients": 7,
+    "Complexity": "Complex",
+    "Price": "CAD 22",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 5,
+    "Ingredients": [
+      "Vodka",
+      "Celery Salt",
+      "Pepper",
+      "Worcestershire",
+      "Tabasco",
+      "Lemon"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Strong & Spirit-Forward",
+    "Cocktail": "Rouge 140.22",
+    "Base Spirit": "Vodka",
+    "Bar": "Louix Louis",
+    "Number of Ingredients": 9,
+    "Complexity": "Complex",
+    "Price": "CAD 22",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 7,
+    "Ingredients": [
+      "Spirit of York Vodka",
+      "Tomato",
+      "Clam Stock",
+      "Chinese Oyster Sauce",
+      "Calabrian Chili",
+      "Piri Piri Spice",
+      "Jamaican Jerk Spice",
+      "Tandoori Masala"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Strong & Spirit-Forward",
+    "Cocktail": "Mary Terranean",
+    "Base Spirit": "Vodka",
+    "Bar": "Louix Louis",
+    "Number of Ingredients": 7,
+    "Complexity": "Complex",
+    "Price": "CAD 22",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 5,
+    "Ingredients": [
+      "Vodka",
+      "Bloody Mary Mixture",
+      "Hot Peppers",
+      "Basil Leaves",
+      "Oregano",
+      "Olive Oil"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "The Runaways (1976)",
+    "Base Spirit": "Vodka",
+    "Bar": "Kissa",
+    "Number of Ingredients": 8,
+    "Complexity": "Complex",
+    "Price": "CAD 23",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 5,
+    "Ingredients": [
+      "Vodka",
+      "Licor 43",
+      "Ginger Liqueur",
+      "Pineapple",
+      "Yuzu",
+      "Pear",
+      "Crabapple",
+      "Sake"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Herbal & Aromatic",
+    "Cocktail": "Green River (1969)",
+    "Base Spirit": "Gin",
+    "Bar": "Kissa",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 23",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Cucumber Infused Gin",
+      "Green Chartreuse",
+      "Lime",
+      "Matcha Latte Syrup",
+      "Honeydew Melon Soda"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Wildflowers (1994)",
+    "Base Spirit": "Shochu, Brandy",
+    "Bar": "Kissa",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 26",
+    "Base Count": 2,
+    "Modifier Count": 2,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Peach Infused Shochu",
+      "Pisco",
+      "Cointreau",
+      "Yuzu",
+      "Green Strawberry",
+      "Salted Sakura Blossom Syrup",
+      "Orange Blossom & Thyme"
+    ],
+    "Tag": "$$$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Twelve Carat Toothache (2022)",
+    "Base Spirit": "Vodka",
+    "Bar": "Kissa",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 22",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Lemon Vodka",
+      "Lemongrass Bitters",
+      "Lemoncello",
+      "Lemon Ginger Air",
+      "Lemon Juice",
+      "Lemon Verbena Syrup"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Smoky & Earthy",
+    "Cocktail": "Still Cruisin' (1988)",
+    "Base Spirit": "Tequila",
+    "Bar": "Kissa",
+    "Number of Ingredients": 7,
+    "Complexity": "Complex",
+    "Price": "CAD 27",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 5,
+    "Ingredients": [
+      "Reposado Tequila",
+      "Strega",
+      "BPM Juice",
+      "Torched Pineapple",
+      "Shiso",
+      "Habanero",
+      "Lemon"
+    ],
+    "Tag": "$$$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Lonely Hearts Club (1967)",
+    "Base Spirit": "Tequila",
+    "Bar": "Kissa",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 23",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 4,
+    "Ingredients": [
+      "Blanco Tequila",
+      "Strawberry Liqueur",
+      "Egg Whites",
+      "Lime",
+      "Kiwi",
+      "Dragonfruit Syrup"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Smoky & Earthy",
+    "Cocktail": "Catch A Fire (1973)",
+    "Base Spirit": "Mezcal",
+    "Bar": "Kissa",
+    "Number of Ingredients": 7,
+    "Complexity": "Complex",
+    "Price": "CAD 26",
+    "Base Count": 1,
+    "Modifier Count": 3,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Mezcal",
+      "Aperol",
+      "Apricot Liqueur",
+      "Tiki Bitters",
+      "Rubbed Sage",
+      "Pandan",
+      "Smoked Lime"
+    ],
+    "Tag": "$$$$"
+  },
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "Buena Vista Social Club (1997)",
+    "Base Spirit": "Rum",
+    "Bar": "Kissa",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 22",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Aged Dark Rum",
+      "Averna",
+      "Amaretto",
+      "Lime",
+      "Root Beer Foam ",
+      "Cola Reduction"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Creamy & Indulgent",
+    "Cocktail": "The Soul Album (1966)",
+    "Base Spirit": "Cognac",
+    "Bar": "Kissa",
+    "Number of Ingredients": 9,
+    "Complexity": "Complex",
+    "Price": "CAD 28",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 6,
+    "Ingredients": [
+      "Cognac",
+      "Creme De Cacao",
+      "Coffee Liqueur",
+      "Rice Milk",
+      "Saline",
+      "Cinnamon",
+      "Cookies & Cream Wafer Roll",
+      "Espresso",
+      "Kokuto Syrup"
+    ],
+    "Tag": "$$$$"
+  },
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "Back In Black (1980)",
+    "Base Spirit": "Whiskey",
+    "Bar": "Kissa",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 23",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Johnnie Walker Black Label",
+      "Madeira",
+      "Fig & Cinnamon",
+      "Midnight Essence",
+      "Black Sesame Orgeat"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "Beggars Banquet (1968)",
+    "Base Spirit": "Whiskey",
+    "Bar": "Kissa",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 25",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 4,
+    "Ingredients": [
+      "Woodford Reserve Bourbon",
+      "Ume Japanese Plum Liqueur",
+      "Ponzu",
+      "Hinoki",
+      "Toasted Sesame",
+      "Kokuto"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Smoky & Earthy",
+    "Cocktail": "I Walk the Line (1964) (Shareable)",
+    "Base Spirit": "Whiskey",
+    "Bar": "Kissa",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 45",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "In-House Barrel Aged Rye",
+      "Creme De Banane",
+      "Frangelico",
+      "Tableside Houjicha Tea Infusion"
+    ],
+    "Tag": "$$$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Je Ne Regrette Rien (1960) (Shareable)",
+    "Base Spirit": "Gin",
+    "Bar": "Kissa",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 75",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 4,
+    "Ingredients": [
+      "Gin",
+      "Choya Yuzu Liqueur",
+      "Sparkling Jasmine Tea",
+      "Tangerine",
+      "Apple Dry Ice",
+      "Lemon"
+    ],
+    "Tag": "$$$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Take Care (2011) (Highball)",
+    "Base Spirit": "Whiskey",
+    "Bar": "Kissa",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 23",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Toki Japanese Whisky",
+      "Soda Water",
+      "Lemon",
+      "Ginger Syrup"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Wish You Were Here (1975) (Highball)",
+    "Base Spirit": "Tequila",
+    "Bar": "Kissa",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 24",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 4,
+    "Ingredients": [
+      "Blanco Tequila",
+      "Grapefruit Soda",
+      "Strawberry Puree",
+      "Lemon",
+      "Habanero"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Herbal & Aromatic",
+    "Cocktail": "Prince & The Revolution (1984) (Highball)",
+    "Base Spirit": "Gin",
+    "Bar": "Kissa",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 25",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Butterfly Pea Flower Gin",
+      "St. Germain Elderflower Liqueur",
+      "Tonic",
+      "Shiso",
+      "Lime"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Bossa Nova Baby (1963) (Highball)",
+    "Base Spirit": "Rum",
+    "Bar": "Kissa",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 20",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 4,
+    "Ingredients": [
+      "White Rum",
+      "Strega",
+      "Lime",
+      "Passionfruit",
+      "Pineapple Soda",
+      "Mint"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Blanco Old Fashioned",
+    "Base Spirit": "Tequila",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 17",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "1800 Blanco",
+      "Agave",
+      "Lime Bitters"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Herbal & Aromatic",
+    "Cocktail": "Celery Gimlet",
+    "Base Spirit": "Gin",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 14",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Bombay Gin",
+      "Chartreuse",
+      "Celery Bitters",
+      "Lime Juice",
+      "Celery"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Watermelon Treat",
+    "Base Spirit": "Tequila",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 15",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "1800 Tequila",
+      "Maraschino Liqueur",
+      "Cucumber Bitters",
+      "Lemon Juice",
+      "Watermelon Syrup"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Blueberry Gin Sour",
+    "Base Spirit": "Gin",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 15",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Spring Mill Gin",
+      "Vegan Foaming Bitters",
+      "Blueberry",
+      "Lemon Juice"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Margarita 2.0",
+    "Base Spirit": "Tequila",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 16",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Jose Cuervo Plata",
+      "Cointreau",
+      "Agave",
+      "Lime Juice"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Sojito",
+    "Base Spirit": "Rum",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 15",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "White Rum",
+      "Peach Schnapps",
+      "Cassis",
+      "Lime Juice",
+      "Pineapple Juice",
+      "Soda"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Model Citizen",
+    "Base Spirit": "Mezcal",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Del Maguey Vida Mezcal",
+      "Lime Yuzu Sake",
+      "St. Germain",
+      "Lime"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Portland Mule",
+    "Base Spirit": "Vodka",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 14",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Tito's Vodka",
+      "Simple Syrup",
+      "Angostura Bitters",
+      "Ginger Beer",
+      "Lime Juice"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Herbal & Aromatic",
+    "Cocktail": "Southside",
+    "Base Spirit": "Gin",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 16",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Hidden Temple Gin",
+      "Menthol Syrup",
+      "Fresh Mint",
+      "Lemon Juice"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "King St. Caesar",
+    "Base Spirit": "Vodka",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 15",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 4,
+    "Ingredients": [
+      "Skyy Vodka",
+      "Secret Caesar Mix",
+      "Clamato Juice",
+      "Olives",
+      "Sweet Pickles",
+      "Celery"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Honey Deuce",
+    "Base Spirit": "Vodka",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 15",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Spirit of York Vodka",
+      "Chambord",
+      "Fresh Lemonade ",
+      "Fresh Honeydew Melon"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Pornstar Martini",
+    "Base Spirit": "Vodka",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 17",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Vanilla Vodka",
+      "Amaretto",
+      "Prosecco",
+      "Lime Juice",
+      "Passionfruit Puree",
+      "Orgeat"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "King & Portland Painkiller",
+    "Base Spirit": "Rum",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 15",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Bacardi White Rum",
+      "Coconut Malibu",
+      "Pineapple Juice",
+      "Orange Juice",
+      "Lime Bitters"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Fuzzy Peach",
+    "Base Spirit": "Gin",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 15",
+    "Base Count": 1,
+    "Modifier Count": 3,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Spirit of York Mandarin",
+      "St. Germain",
+      "Lemon",
+      "Peach"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Sour Patch Kid",
+    "Base Spirit": "Vodka",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 15",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Raspberry Smirnoff",
+      "Bacardi Limon",
+      "Sour Patch Mix",
+      "Lemon Juice",
+      "Peach"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Blackberry Smash",
+    "Base Spirit": "Whiskey",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 16",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Maker's Mark Bourbon",
+      "Amaro Montenegro",
+      "Molasses Bitters",
+      "Ginger Beer"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "Aperol Spritz",
+    "Base Spirit": "",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Aperol",
+      "Prosecco",
+      "Soda",
+      "Orange"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Old Fashioned",
+    "Base Spirit": "Whiskey",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Wild Turkey Bourbon",
+      "Simple Syrup",
+      "Angostura Bitters"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Strong & Spirit-Forward",
+    "Cocktail": "Margarita",
+    "Base Spirit": "Tequila",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 16",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Jose Cuervo Plata",
+      "Secret Margarita Mix"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Lychee Sangria Spritz",
+    "Base Spirit": "White Wine",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Soho Lychee Liqueur",
+      "White Wine",
+      "White Cranberry Juice",
+      "Lychee Juice"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Negroni",
+    "Base Spirit": "Gin",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Bombay Gin",
+      "Campari",
+      "Sweet Vermouth"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Pina Colada",
+    "Base Spirit": "Rum",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 16",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Bacardi White Rum",
+      "Secret Pina Colada Mix"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Limoncello Spritz",
+    "Base Spirit": "",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Limoncello",
+      "Prosecco",
+      "Lemon Juice",
+      "Soda"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "Paper Plane",
+    "Base Spirit": "Whiskey",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Bourbon",
+      "Aperol",
+      "Amaro"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Miami Vice",
+    "Base Spirit": "Rum",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 16",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Bacardi White Rum",
+      "Secret Strawberry & Pina Colada Mixes"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Tequila Spritz",
+    "Base Spirit": "Tequila",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 3,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Jose Cuervo Plata",
+      "Campari",
+      "Rose Prosecco",
+      "Bitters",
+      "Rhubarb Syrup"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Cosmopolitan",
+    "Base Spirit": "Vodka",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Skyy Vodka",
+      "Cointreau",
+      "Cranberry Juice",
+      "Lime Juice"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "Bahama Mama",
+    "Base Spirit": "Rum",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 16",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Bacardi White Rum",
+      "Orange Juice",
+      "Secret Strawberry & Pina Colada Mixes"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Fashion Television",
+    "Base Spirit": "Red Wine",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 3,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Red Wine",
+      "Cassis",
+      "Cointreau",
+      "Lime & Yuzu Sake",
+      "Orange Juice",
+      "Soda"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Espresso Martini",
+    "Base Spirit": "Vodka",
+    "Bar": "Ruby Soho",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Vanilla Vodka",
+      "Kahlua",
+      "Espresso",
+      "Simple Syrup"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Between the Lands",
+    "Base Spirit": "Gin",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 16",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Citadelle Gin",
+      "Mediterranean Cordial ",
+      "Amontillado Sherry",
+      "Olive",
+      "Lemon",
+      "Pomegranate"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Creamy & Indulgent",
+    "Cocktail": "Garden Party 3.0",
+    "Base Spirit": "",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 8,
+    "Complexity": "Complex",
+    "Price": "CAD 17",
+    "Base Count": 1,
+    "Modifier Count": 4,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Mastiha",
+      "Celery Bitters",
+      "Strega",
+      "Lillet",
+      "Vermouth",
+      "Bocconcini",
+      "Cherry Tomato",
+      "Yellow Bell Pepper"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Herbal & Aromatic",
+    "Cocktail": "Clear as Night",
+    "Base Spirit": "Rum",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 8,
+    "Complexity": "Complex",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 5,
+    "Ingredients": [
+      "Aged Jamaican Rum",
+      "Fen Chiew",
+      "Amaretto",
+      "Ube",
+      "Coconut Milk",
+      "Pineapple Fronds",
+      "Masala Chai",
+      "Lime"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "Major Mustard",
+    "Base Spirit": "Whiskey",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 7,
+    "Complexity": "Complex",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 5,
+    "Ingredients": [
+      "Wild Turkey Bourbon",
+      "Aperol",
+      "Honey",
+      "Dijon Mustard",
+      "Egg White",
+      "Mustard Gel",
+      "Salt"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "24 Carrot Gold",
+    "Base Spirit": "Tequila",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 8,
+    "Complexity": "Complex",
+    "Price": "CAD 20",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 6,
+    "Ingredients": [
+      "El Jimador Reposado Tequila",
+      "Licor 43",
+      "Lemon",
+      "Pineapple",
+      "Soda",
+      "Carrot",
+      "Cinnamon",
+      "Ginger"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Pear_Lescent",
+    "Base Spirit": "Cachaca",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 7,
+    "Complexity": "Complex",
+    "Price": "CAD 21",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 5,
+    "Ingredients": [
+      "Roku Gin",
+      "Cachaca",
+      "QiuYue Pears",
+      "Mint",
+      "Kewra",
+      "Longan",
+      "Lemon"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "Old Fashioned of Champions",
+    "Base Spirit": "Whiskey",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 17",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 4,
+    "Ingredients": [
+      "Bacon-Wild Turkey Bourbon",
+      "Dewar's Blended Scotch",
+      "Cookie",
+      "Lapsang",
+      "Black Pepper",
+      "Maple"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Herbal & Aromatic",
+    "Cocktail": "Pho Get About It",
+    "Base Spirit": "Rum",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 17",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 4,
+    "Ingredients": [
+      "Pho Infused Plantation Rum",
+      "Rice Milk",
+      "Lime",
+      "Cilantro",
+      "Basil"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Pretty Little Lychee",
+    "Base Spirit": "Vodka",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 16",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Dillon's Vodka",
+      "Lemongrass",
+      "Bianco Vermouth",
+      "Lemon",
+      "Lychee Boba"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Creamy & Indulgent",
+    "Cocktail": "To the Yard",
+    "Base Spirit": "",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 17",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Dillon's Berries & Chocolate Liqueurs",
+      "Black Chocolate Milk"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Pandan Express",
+    "Base Spirit": "Pisco",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 17",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Gobernador Pisco",
+      "Pandan",
+      "Chamomile Tea",
+      "Honey",
+      "Lime"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Herbal & Aromatic",
+    "Cocktail": "Guac-a-Rita",
+    "Base Spirit": "Tequila",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 7,
+    "Complexity": "Complex",
+    "Price": "CAD 19",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 4,
+    "Ingredients": [
+      "Tequila Plata",
+      "Orange Liqueur",
+      "Aperitif",
+      "Avocado",
+      "Agave",
+      "Lime Salt",
+      "Soy Milk"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Aviation",
+    "Base Spirit": "Gin",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 17",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Gin",
+      "Creme de Violette",
+      "Maraschino Liqueur",
+      "Lemon"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Strong & Spirit-Forward",
+    "Cocktail": "Bee's Knees",
+    "Base Spirit": "Gin",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 17",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Gin",
+      "Lemon",
+      "Honey"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Bobby Burns",
+    "Base Spirit": "Whiskey",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 17",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Blended Scotch",
+      "Sweet Vermouth",
+      "Benedictine"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Bitter & Complex",
+    "Cocktail": "Boulevardier",
+    "Base Spirit": "Whiskey",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 17",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Bourbon",
+      "Sweet Vermouth",
+      "Campari"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Bitter & Complex",
+    "Cocktail": "Chrysanthemum",
+    "Base Spirit": "Absinthe",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 16",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Absinthe",
+      "Benedictine",
+      "Dry Vermouth"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Bitter & Complex",
+    "Cocktail": "Clover Club",
+    "Base Spirit": "Gin",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Gin",
+      "Lemon",
+      "Raspberry"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Corpse Reviver #2",
+    "Base Spirit": "Gin, Absinthe",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 17",
+    "Base Count": 2,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Gin",
+      "Absinthe",
+      "Orange Liqueur",
+      "Aromatized Wine",
+      "Lemon"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Strong & Spirit-Forward",
+    "Cocktail": "Cosmopolitan",
+    "Base Spirit": "Vodka",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 19",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Citron Vodka",
+      "Orange Liqueur",
+      "Cranberry",
+      "Lime"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Daiquiri",
+    "Base Spirit": "Rum",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 16",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "White Rum",
+      "Lime",
+      "Sugar"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Bitter & Complex",
+    "Cocktail": "Dark & Stormy",
+    "Base Spirit": "Rum",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 19",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Blackstrap Rum",
+      "Bitters",
+      "Lime",
+      "Ginger Beer"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Bitter & Complex",
+    "Cocktail": "Espresso Martini",
+    "Base Spirit": "Vodka",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 17",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Vodka",
+      "Coffee Liqueur",
+      "Espresso"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "French 75",
+    "Base Spirit": "Gin",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 17",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Gin",
+      "Lemon",
+      "Bubbly",
+      "Sugar"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Strong & Spirit-Forward",
+    "Cocktail": "Hanky Panky",
+    "Base Spirit": "Gin",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Gin",
+      "Sweet Vermouth",
+      "Fernet Branca"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Strong & Spirit-Forward",
+    "Cocktail": "Hemingway Daiquiri",
+    "Base Spirit": "Rum",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "White Rum",
+      "Maraschino Liqueur",
+      "Grapefruit",
+      "Lime"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Mai Tai",
+    "Base Spirit": "Rum",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 17",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Rum",
+      "Orange Liqueur",
+      "Lime",
+      "Orgeat",
+      "Sugar"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Strong & Spirit-Forward",
+    "Cocktail": "Manhattan",
+    "Base Spirit": "Whiskey",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Bourbon or Rye",
+      "Sweet Vermouth",
+      "Angostura Bitters"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Margarita",
+    "Base Spirit": "Tequila",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Blanco Tequila",
+      "Orange Liqueur",
+      "Lime",
+      "Agave"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Smoky & Earthy",
+    "Cocktail": "Martini",
+    "Base Spirit": "Gin/Vodka",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Gin or Vodka",
+      "Dry Vermouth"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Martinez",
+    "Base Spirit": "Gin",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 3,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Gin",
+      "Maraschino Liqueur",
+      "Sweet Vermouth",
+      "Angostura Bitters"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Bitter & Complex",
+    "Cocktail": "Mojito",
+    "Base Spirit": "Rum",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 19",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "White Rum",
+      "Lime",
+      "Mint",
+      "Sugar"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Moscow Mule",
+    "Base Spirit": "Vodka",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 17",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Vodka",
+      "Lime",
+      "Ginger Beer"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Smoky & Earthy",
+    "Cocktail": "Old Fashioned",
+    "Base Spirit": "Whiskey",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 19",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Bourbon or Rye",
+      "Demerara",
+      "Angostura Bitters",
+      "Orange",
+      "Chocolate"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Old Pal",
+    "Base Spirit": "Whiskey",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 19",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Rye",
+      "Dry Vermouth",
+      "Campari"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Paloma",
+    "Base Spirit": "Tequila",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 4,
+    "Ingredients": [
+      "Blanco Tequila",
+      "Grapefruit",
+      "Lime",
+      "Soda",
+      "Agave"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "Paper Plane",
+    "Base Spirit": "Whiskey",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 19",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Bourbon",
+      "Amaro Nonino",
+      "Aperol",
+      "Lemon"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Penicillin",
+    "Base Spirit": "Whiskey",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 20",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Blended Scotch",
+      "Peated Scotch",
+      "Lemon",
+      "Ginger",
+      "Honey"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Sazerac",
+    "Base Spirit": "Cognac / Whiskey / Both",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 20",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Cognac or Rye or 50/50",
+      "Peychaud Bitters",
+      "Absinthe",
+      "Sugar"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Sidecar",
+    "Base Spirit": "Brandy",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 19",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Brandy",
+      "Orange Liqueur",
+      "Lemon"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Toronto",
+    "Base Spirit": "Whiskey",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 20",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Rye Whisky",
+      "Fernet Branca",
+      "Bitters",
+      "Sugar"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Vesper",
+    "Base Spirit": "Gin/ Vodka",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 17",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Gin",
+      "Vodka",
+      "Aromatized Wine"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Creamy & Indulgent",
+    "Cocktail": "Vieux Carre",
+    "Base Spirit": "Cognac, Whiskey",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 24",
+    "Base Count": 2,
+    "Modifier Count": 3,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Cognac",
+      "Rye",
+      "Sweet Vermouth",
+      "Benedictine",
+      "Bitters"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Whiskey Sour",
+    "Base Spirit": "Whiskey",
+    "Bar": "Project GiggleWater",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Bourbon",
+      "Lemon",
+      "Sugar"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Soju Spritz",
+    "Base Spirit": "Soju",
+    "Bar": "Mahjong Bar",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 16",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Soju",
+      "Prosecco",
+      "Bitters",
+      "Soda"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Pina Colada",
+    "Base Spirit": "Rum",
+    "Bar": "Mahjong Bar",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Havana 3",
+      "Malibu",
+      "Pineapple",
+      "Lime",
+      "Condensed Milk"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Smoky & Earthy",
+    "Cocktail": "Peach Bonfire",
+    "Base Spirit": "Mezcal",
+    "Bar": "Mahjong Bar",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Altos",
+      "Mezcal",
+      "Peach",
+      "Lime",
+      "Gochujang"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Herbal & Aromatic",
+    "Cocktail": "Spirited Away",
+    "Base Spirit": "Gin",
+    "Bar": "Mahjong Bar",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Sesame Beefeater Gin",
+      "Lychee",
+      "Lemon",
+      "Orgeat"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Smoky & Earthy",
+    "Cocktail": "Tame Impala",
+    "Base Spirit": "Mezcal",
+    "Bar": "Mahjong Bar",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Tromba",
+      "Mezcal",
+      "Ginger",
+      "Lime"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "Oolong Whiskey Sour",
+    "Base Spirit": "Whiskey",
+    "Bar": "Mahjong Bar",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 19",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Buffalo Trace Bourbon",
+      "Bitters",
+      "Oolong",
+      "Lemon"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Creamy & Indulgent",
+    "Cocktail": "Vietnamese Iced Coffee",
+    "Base Spirit": "Rum",
+    "Bar": "Mahjong Bar",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 20",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Bumbu Rum",
+      "Bitters",
+      "Cold Brew",
+      "Condensed Milk"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Bitter & Complex",
+    "Cocktail": "Spiced Tokyo Old Fashioned",
+    "Base Spirit": "Whiskey",
+    "Bar": "Mahjong Bar",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 20",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Suntory Whisky",
+      "Bitters",
+      "Ginger"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "In a Meeting",
+    "Base Spirit": "Vodka",
+    "Bar": "Toronto's Oldest Bar",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 14",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Smirnoff Pink Lemonade Vodka",
+      "Cointreau",
+      "Fresh Lemonade",
+      "Lime"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Called in Sick",
+    "Base Spirit": "Vodka",
+    "Bar": "Toronto's Oldest Bar",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 14",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 4,
+    "Ingredients": [
+      "Smirnoff Berry Blast Vodka",
+      "Cranberry Juice",
+      "Mixed Berries",
+      "Simple Syrup",
+      "Lime"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Strong & Spirit-Forward",
+    "Cocktail": "Dirty Martini",
+    "Base Spirit": "Vodka",
+    "Bar": "Toronto's Oldest Bar",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 14",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Smirnoff Vodka",
+      "Dry Vermouth",
+      "Olive Juice"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Misty Irish Sour",
+    "Base Spirit": "Whiskey",
+    "Bar": "Toronto's Oldest Bar",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 16",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Jameson Whiskey",
+      "Lemon",
+      "Simple Syrup"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Bitter & Complex",
+    "Cocktail": "Air of Mystery",
+    "Base Spirit": "Rum",
+    "Bar": "Toronto's Oldest Bar",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 16",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Bacardi Spiced Rum",
+      "Orange Bitters",
+      "Lemon",
+      "Ginger Beer"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Favorite Addiction",
+    "Base Spirit": "Vodka",
+    "Bar": "Toronto's Oldest Bar",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 16",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 4,
+    "Ingredients": [
+      "Smirnoff Vodka",
+      "Passionfruit Puree",
+      "Lime",
+      "Simple Syrup",
+      "Pineapple"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Emerald",
+    "Base Spirit": "Gin",
+    "Bar": "Toronto's Oldest Bar",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 16",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Tanqueray Gin",
+      "Elderflower",
+      "Lime"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Strong & Spirit-Forward",
+    "Cocktail": "Pretty Vacant",
+    "Base Spirit": "Tequila",
+    "Bar": "Toronto's Oldest Bar",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 16",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Cazadores Tequila",
+      "Grand Marnier",
+      "Lime"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "The Aul' Fashioned",
+    "Base Spirit": "Whiskey",
+    "Bar": "Toronto's Oldest Bar",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 16",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Bulleit Bourbon",
+      "Angostura Bitters",
+      "Orange Bitters",
+      "Brown Sugar"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "You're a Dime",
+    "Base Spirit": "Whiskey",
+    "Bar": "Toronto's Oldest Bar",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 16",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Monkey Shoulder Blended Malt Whisky",
+      "Lemon"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Bitter & Complex",
+    "Cocktail": "Monkey Beer",
+    "Base Spirit": "Whiskey",
+    "Bar": "Toronto's Oldest Bar",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 17",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Monkey Shoulder Blended Malt Whisky",
+      "Amarena Syrup",
+      "Lemon",
+      "Ginger Beer"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Strong & Spirit-Forward",
+    "Cocktail": "Smoke Show",
+    "Base Spirit": "Whiskey",
+    "Bar": "Toronto's Oldest Bar",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 18",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Monkey Shoulder Blended Malt Whisky",
+      "Triple Sec",
+      "Sweet Vermouth",
+      "Lemon Juice",
+      "Simple Syrup"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Burt Reynolds",
+    "Base Spirit": "Rum",
+    "Bar": "Toronto's Oldest Bar",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 7",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Captain Morgan Spiced Rum",
+      "Butterscotch Schnapps"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Apple Pie",
+    "Base Spirit": "Whiskey",
+    "Bar": "Toronto's Oldest Bar",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 7",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Jack Daniel's Tennessee Fire",
+      "Apple Crown"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Super Split",
+    "Base Spirit": "Vodka",
+    "Bar": "Toronto's Oldest Bar",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 7",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Smirnoff Vodka",
+      "Galliano",
+      "Orange"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Strong & Spirit-Forward",
+    "Cocktail": "Three Wise Men",
+    "Base Spirit": "Whiskey",
+    "Bar": "Toronto's Oldest Bar",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 7",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Jim Beam",
+      "Johnnie Walker",
+      "Jack Daniel's"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "JD Pickle Back",
+    "Base Spirit": "Whiskey",
+    "Bar": "Toronto's Oldest Bar",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 7",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Jack Daniel's",
+      "Pickle Juice"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "Irish Goodbye",
+    "Base Spirit": "Vodka",
+    "Bar": "Toronto's Oldest Bar",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 7",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Smirnoff Vodka",
+      "Triple Sec",
+      "Creme de Cacao",
+      "Lemon",
+      "Orange"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Arabella",
+    "Base Spirit": "Tequila",
+    "Bar": "Toronto's Oldest Bar",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 7",
+    "Base Count": 1,
+    "Modifier Count": 0,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Cazadores Tequila",
+      "Lemon"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Bitter & Complex",
+    "Cocktail": "Ellis Island",
+    "Base Spirit": "Whiskey",
+    "Bar": "Toronto's Oldest Bar",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 7",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Jameson Irish Whiskey",
+      "Montenegro",
+      "Orange Bitters"
+    ],
+    "Tag": "$"
+  },
+  {
+    "Flavor Profile": "Herbal & Aromatic",
+    "Cocktail": "Crimson",
+    "Base Spirit": "Gin",
+    "Bar": "Bar 404",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 22",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Beet Infused Bombay Gin",
+      "Rhubarb Infused Campari",
+      "Sweet Vermouth"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Herbal & Aromatic",
+    "Cocktail": "Rosemary Rendezvous",
+    "Base Spirit": "Mezcal",
+    "Bar": "Bar 404",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 25",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Rosemary Infused Mezcal",
+      "Aperol",
+      "Lemon Juice",
+      "Lemongrass Syrup",
+      "Agave"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Strong & Spirit-Forward",
+    "Cocktail": "Soiree",
+    "Base Spirit": "Baijiu",
+    "Bar": "Bar 404",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 23",
+    "Base Count": 1,
+    "Modifier Count": 3,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Olive Oil Fat Washed Baijiu",
+      "Fino Sherry",
+      "Lillet",
+      "Orange Bitters",
+      "Olive Brine",
+      "Lemongrass Syrup"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "Gold Libation",
+    "Base Spirit": "Tequila",
+    "Bar": "Bar 404",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 23",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Saffron Infused Tequila",
+      "Angostura Bitters",
+      "Maple Syrup"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Smoky & Earthy",
+    "Cocktail": "Spicy Oasis",
+    "Base Spirit": "Tequila",
+    "Bar": "Bar 404",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 23",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Jalapeno Infused Tequila",
+      "Melon Liqueur",
+      "Elderflower Liqueur",
+      "LemonGrass Syrup",
+      "Key Lime Foam",
+      "Apple Soju"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "Banana Barrel",
+    "Base Spirit": "Whiskey",
+    "Bar": "Bar 404",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 28",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Banana Infused Bourbon",
+      "Macallan 12 Sherry",
+      "Drambuie",
+      "Angostura Bitters"
+    ],
+    "Tag": "$$$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Got Lychee?",
+    "Base Spirit": "Gin, Soju",
+    "Bar": "Bar 404",
+    "Number of Ingredients": 7,
+    "Complexity": "Complex",
+    "Price": "CAD 20",
+    "Base Count": 2,
+    "Modifier Count": 2,
+    "Mixer Count": 4,
+    "Ingredients": [
+      "Mango Tea Gin",
+      "Peach Soju",
+      "Grenadine",
+      "Sakura Bitters",
+      "Lychee",
+      "Lemon",
+      "Lychee Jelly",
+      "Clarified Milk"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Exotic Elixir",
+    "Base Spirit": "Rum",
+    "Bar": "Bar 404",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 22",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 4,
+    "Ingredients": [
+      "Blueberry Infused Bacardi White Rum",
+      "Campari",
+      "Pineapple Juice",
+      "Lime Juice",
+      "Simple Syrup",
+      "Coconut Milk"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Boba Baby",
+    "Base Spirit": "Cachaca",
+    "Bar": "Bar 404",
+    "Number of Ingredients": 8,
+    "Complexity": "Complex",
+    "Price": "CAD 22",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 5,
+    "Ingredients": [
+      "Green Tea Infused Cachaca",
+      "Melon Liqueur",
+      "Elderflower Liqueur",
+      "Apple Soju",
+      "Lime",
+      "Mango Milk",
+      "Mango Syrup",
+      "Mango Popping Pearls"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Velvet Sunset",
+    "Base Spirit": "Vodka, Soju",
+    "Bar": "Bar 404",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 21",
+    "Base Count": 2,
+    "Modifier Count": 1,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Vodka",
+      "Strawberry Soju",
+      "Butterfly Pea Syrup",
+      "Lemon Juice",
+      "Mango Milk"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Herbal & Aromatic",
+    "Cocktail": "Yuzu Cascade",
+    "Base Spirit": "Gin",
+    "Bar": "Bar 404",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 20",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Cucumber Gin",
+      "St. Germain",
+      "Yuzu",
+      "Honey",
+      "Soda"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "Gold Temple",
+    "Base Spirit": "Tequila",
+    "Bar": "Bar 404",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 21",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Saffron Infused Tequila",
+      "Licor 43",
+      "Cacao Bitters",
+      "Maple Syrup",
+      "Espresso"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Strawberry Short Cake",
+    "Base Spirit": "Rum",
+    "Bar": "Bar 404",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 24",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "White Rum",
+      "Gold Rum",
+      "Coconut Rum",
+      "Vanilla Liqueur",
+      "Pecan Bitters",
+      "Pineapple",
+      "Lime",
+      "Strawberry"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "French Kiss 022",
+    "Base Spirit": "Whiskey",
+    "Bar": "Coffee Oysters Champagne",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 22",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Angels Envy Bourbon",
+      "Peach",
+      "Vanilla",
+      "Lemon",
+      "Frico Lambrusco"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Citrusy & Refreshing",
+    "Cocktail": "Coc Old Fashioned 022",
+    "Base Spirit": "Tequila",
+    "Bar": "Coffee Oysters Champagne",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 22",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Patron Reposado Tequila",
+      "St-Germain",
+      "Chocolate Bitters"
+    ],
+    "Tag": "$$$"
+  },
+  {
+    "Flavor Profile": "Strong & Spirit-Forward",
+    "Cocktail": "Coc Spritz 019",
+    "Base Spirit": "",
+    "Bar": "Coffee Oysters Champagne",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 19",
+    "Base Count": 0,
+    "Modifier Count": 2,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "St-Germain",
+      "Mionetto Rose Prosecco",
+      "Soda",
+      "Peach Bitters"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Songbird's Paradise 019",
+    "Base Spirit": "",
+    "Bar": "Coffee Oysters Champagne",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 19",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "St-Germain",
+      "Yellow Chartreuse",
+      "Cava"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Herbal & Aromatic",
+    "Cocktail": "Pink Cadillac 020",
+    "Base Spirit": "Vodka",
+    "Bar": "Coffee Oysters Champagne",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 20",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 3,
+    "Ingredients": [
+      "Grey Goose Citron",
+      "Green Chartreuse",
+      "Passionfruit",
+      "Lemon",
+      "Honey",
+      "Soda"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Herbal & Aromatic",
+    "Cocktail": "Sunset Boulevard 020",
+    "Base Spirit": "Tequila",
+    "Bar": "Coffee Oysters Champagne",
+    "Number of Ingredients": 6,
+    "Complexity": "Medium",
+    "Price": "CAD 20",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 4,
+    "Ingredients": [
+      "Cazadores Reposado",
+      "Yellow Chartreuse",
+      "Pineapple",
+      "Lemon",
+      "Louis Bouillot Rose",
+      "Ginger Beer"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Champagne Supernova 032",
+    "Base Spirit": "Cognac",
+    "Bar": "Coffee Oysters Champagne",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 32",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Remy Martin VSOP Cognac",
+      "Belle de Brillet Pear",
+      "Bergamot",
+      "Piper Heidsieck Brut Champagne",
+      "Angostura"
+    ],
+    "Tag": "$$$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Classic 020",
+    "Base Spirit": "Vodka",
+    "Bar": "Coffee Oysters Champagne",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 20",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Grey Goose Vodka",
+      "Tia Maria",
+      "Espresso"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "La Vie en Rose 020",
+    "Base Spirit": "Gin",
+    "Bar": "Coffee Oysters Champagne",
+    "Number of Ingredients": 5,
+    "Complexity": "Medium",
+    "Price": "CAD 20",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 2,
+    "Ingredients": [
+      "Bombay Sapphire Bramble",
+      "Chambord",
+      "Tia Maria",
+      "Espresso",
+      "Raspberries"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Fruity & Sweet",
+    "Cocktail": "Tijuana Brass 020",
+    "Base Spirit": "Tequila",
+    "Bar": "Coffee Oysters Champagne",
+    "Number of Ingredients": 4,
+    "Complexity": "Medium",
+    "Price": "CAD 20",
+    "Base Count": 1,
+    "Modifier Count": 2,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "Cazadores Reposado Tequila",
+      "Cynar",
+      "Grapefruit Zest",
+      "Espresso"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "Rich & Spiced",
+    "Cocktail": "Hotel Chevalier 020",
+    "Base Spirit": "Brandy",
+    "Bar": "Coffee Oysters Champagne",
+    "Number of Ingredients": 3,
+    "Complexity": "Simple",
+    "Price": "CAD 20",
+    "Base Count": 1,
+    "Modifier Count": 1,
+    "Mixer Count": 1,
+    "Ingredients": [
+      "St Remy Signature Brandy",
+      "Pierre Ferrand Dry Curacao",
+      "Espresso"
+    ],
+    "Tag": "$$"
+  },
+  {
+    "Flavor Profile": "",
+    "Cocktail": "",
+    "Base Spirit": "",
+    "Bar": "",
+    "Number of Ingredients": "",
+    "Complexity": "",
+    "Price": "",
+    "Base Count": "",
+    "Modifier Count": "",
+    "Mixer Count": "",
+    "Ingredients": "",
+    "Tag": ""
+  },
+  {
+    "Flavor Profile": "",
+    "Cocktail": "",
+    "Base Spirit": "",
+    "Bar": "",
+    "Number of Ingredients": "",
+    "Complexity": "",
+    "Price": "",
+    "Base Count": "",
+    "Modifier Count": "",
+    "Mixer Count": "",
+    "Ingredients": "",
+    "Tag": ""
+  }
+]

@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cocktail Finder</title>
+  <link rel="stylesheet" href="styles1.css">
+  <link rel="stylesheet" href="https://use.typekit.net/vun8ccw.css">
+  <link rel="stylesheet" href="https://use.typekit.net/vun8ccw.css">
+  <link rel="stylesheet" href="https://use.typekit.net/vun8ccw.css">
+
+
+  <style>
+    .filter-container {
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+
+    .filter-section {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 22%; /* Adjust to ensure four columns fit */
+      min-width: 200px;
+    }
+    
+    .filter-section select {
+      width: 100%;
+      padding: 5px;
+      margin-bottom: 10px;
+      font-size: 14px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    
+    .legends-container {     
+      letter-spacing: 0.05em;  /* Adjust tracking */
+      line-height: 1.25;       /* Adjust leading */
+      font-size: small;
+      display: flex;
+      flex-direction: column;
+      gap: 5px;
+      width: 100%;
+    }
+
+    
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+    
+    .legend-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+    }
+
+    .main-title {
+      color: #340A0E;
+    }
+    
+    @media (max-width: 768px) {
+      .filter-container {
+        flex-direction: column;
+      }
+      
+      .filter-section {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="main-title-container">
+    <h1 class="main-title">King Street Cocktail Explorer</h1>
+  </div>
+<div>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil rem id earum laborum at aut corporis repellendus qui quaerat accusamus explicabo assumenda inventore deleniti iusto minus dolor numquam, fugit quis?</p>
+</div>
+  <!-- Filter Section -->
+  <div class="filter-container">
+    <!-- Flavor Profile Filter -->
+    <div class="filter-section">
+      <select id="flavor-profile-filter">
+        <option value="">Flavor Profile</option>
+        <option value="Rich & Spiced">Rich & Spiced</option>
+        <option value="Fruity & Sweet">Fruity & Sweet</option>
+        <option value="Bitter & Complex">Bitter & Complex</option>
+        <option value="Herbal & Aromatic">Herbal & Aromatic</option>
+        <option value="Creamy & Indulgent">Creamy & Indulgent</option>
+        <option value="Smoky & Earthy">Smoky & Earthy</option>
+        <option value="Citrusy & Refreshing">Citrusy & Refreshing</option>
+        <option value="Strong & Spirit-Forward">Strong & Spirit-Forward</option>
+      </select>
+      <div class="legends-container">
+        <div class="legend-item">
+          <div class="legend-dot" style="background-color: #a0522d;"></div>
+          <span>Rich & Spiced</span>
+        </div>
+        <div class="legend-item">
+          <div class="legend-dot" style="background-color: #ffa07a;"></div>
+          <span>Fruity & Sweet</span>
+        </div>
+        <div class="legend-item">
+          <div class="legend-dot" style="background-color: #8b0000;"></div>
+          <span>Bitter & Complex</span>
+        </div>
+        <div class="legend-item">
+          <div class="legend-dot" style="background-color: #228b22;"></div>
+          <span>Herbal & Aromatic</span>
+        </div>
+        <div class="legend-item">
+          <div class="legend-dot" style="background-color: #f5deb3;"></div>
+          <span>Creamy & Indulgent</span>
+        </div>
+        <div class="legend-item">
+          <div class="legend-dot" style="background-color: #8b4513;"></div>
+          <span>Smoky & Earthy</span>
+        </div>
+        <div class="legend-item">
+          <div class="legend-dot" style="background-color: #00ced1;"></div>
+          <span>Citrusy & Refreshing</span>
+        </div>
+        <div class="legend-item">
+          <div class="legend-dot" style="background-color: #4682b4;"></div>
+          <span>Strong & Spirit-Forward</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Complexity Filter -->
+    <div class="filter-section">
+      <select id="complexity-filter">
+        <option value="">Complexity</option>
+        <option value="Simple">Simple</option>
+        <option value="Medium">Medium</option>
+        <option value="Complex">Complex</option>
+      </select>
+      <div class="legends-container">
+        <div class="legend-item">
+          <div class="legend-dot" style="background-color: #FFAB91;"></div>
+          <span>Mixer</span>
+        </div>
+        <div class="legend-item">
+          <div class="legend-dot" style="background-color: #9A1B22;"></div>
+          <span>Modifiers</span>
+        </div>
+        <div class="legend-item">
+          <div class="legend-dot" style="background-color: #FF5722;"></div>
+          <span>Base Spirits</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Price Range Filter -->
+    <div class="filter-section">
+      <select id="price-range-filter">
+        <option value="">Price Range</option>
+        <option value="0-15">CAD 0 - 15</option>
+        <option value="16-20">CAD 16 - 20</option>
+        <option value="21-25">CAD 21 - 25</option>
+        <option value="25+">CAD 25+</option>
+      </select>
+    </div>
+
+    <!-- Base Spirit Filter -->
+    <div class="filter-section">
+      <select id="base-spirit-filter">
+        <option value="">Base Spirit</option>
+        <option value="Whiskey">Whiskey</option>
+        <option value="Gin">Gin</option>
+        <option value="Tequila">Tequila</option>
+        <option value="Brandy">Brandy</option>
+        <option value="Cognac">Cognac</option>
+        <option value="Absinthe">Absinthe</option>
+        <option value="Champagne">Champagne</option>
+        <option value="Mezcal">Mezcal</option>
+        <option value="Rum">Rum</option>
+        <option value="Baijiu">Baijiu</option>
+        <option value="Shochu">Shochu</option>
+        <option value="Soju">Soju</option>
+        <option value="Pisco">Pisco</option>
+        <option value="Red Whine">Red Wine</option>
+        <option value="White Wine ">White Wine</option>
+      </select>
+    </div>
+  </div>
+  
+  <!-- Drinks Section -->
+  <div id="drinks-container" class="drinks-container">
+    <!-- Example Drink Card -->
+    <div class="drink-card">
+      <h3>
+        <span class="cocktail-name">Example Drink</span>
+        <span class="cocktail-tag">$$$</span>
+      </h3>
+      <p>Rich & Spiced | Whiskey | Complexity: 7 | Price: CAD 15</p>
+      <div class="layers-container">
+        <div class="layer red"></div>
+        <div class="layer green"></div>
+        <div class="layer blue"></div>
+      </div>
+      <div class="layer-hover">Hover for more information about this amazing drink.</div>
+    </div>
+  </div>
+
+  <script src="scripts1.js"></script>
+</body>
+</html>
