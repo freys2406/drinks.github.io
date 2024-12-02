@@ -1,14 +1,4 @@
-/* Body Styles */
-html, body {
-  font-family: "itc-avant-garde-gothic-pro", sans-serif;
-  font-weight: 300;
-  font-style: normal;
-  padding: 20px;
-  background-color: #FBF6CA; /* Light background */
-  color: #340A0E; /* Dark text */ 
-  margin: 0;
-  height: 100%;
-}
+
 
 p {
   letter-spacing: 0.05em;  /* Adjust tracking */
@@ -49,19 +39,7 @@ font-variation-settings: "wght" 500;;
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Optional shadow for better readability */
   border-radius: 8px; /* Optional for rounded corners */
 }
-/* Title in a Box */
-.page-title {
-  font-family: "degular-variable", sans-serif;
-  font-variation-settings: "wght" 700, "opsz" 6, "ital" 0;
-  color: #340A0E; /* Dark text for contrast */
-  background-color: #FBF6CA; /* Orange background */
-  padding: 15px; /* Reduced padding */
-  text-align: center;
-  border-radius: 3px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-  margin-bottom: 15px; /* Reduced margin */
-  transition: all 0.3s ease; /* Smooth hover effect */
-}
+
 
 /* Filter Section Styles */
 .filter-container {
@@ -72,6 +50,7 @@ font-variation-settings: "wght" 500;;
 }
 
 .filter-section {
+  
   flex: 1;
   min-width: 0;
   display: flex;
@@ -103,7 +82,7 @@ font-variation-settings: "wght" 500;;
 }
 
 .drink-card {
-  background-color: #340A0E; /* Dark background for cards */
+  background-color: rgb(52, 10, 14); /* Dark background for cards */
   color: #FBF6CA; /* Light text */
   padding: 15px; /* Reduced padding */
   border-radius: 8px;
